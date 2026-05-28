@@ -20,12 +20,14 @@ const Index = () => {
             }}
           ></p>
 
-          <Image
-            src={content?.['be-ek-be']?.two?.img?.src}
-            alt={content?.['be-ek-be']?.two?.img?.alt}
-            width={content?.['be-ek-be']?.two?.img?.width}
-            height={content?.['be-ek-be']?.two?.img?.height}
-          />
+          {content?.['be-ek-be']?.two?.img?.src && (
+            <Image
+              src={content?.['be-ek-be']?.two?.img?.src}
+              alt={content?.['be-ek-be']?.two?.img?.alt}
+              width={content?.['be-ek-be']?.two?.img?.width}
+              height={content?.['be-ek-be']?.two?.img?.height}
+            />
+          )}
         </div>
 
         {/* Lottie + overlaid logo cards */}

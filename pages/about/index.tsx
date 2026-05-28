@@ -4,7 +4,7 @@ import Seven from '../../components/organisms/home/seven'
 import Eight from '../../components/organisms/home/eight'
 import Nine from '../../components/organisms/home/nine'
 import One from '../../components/organisms/about/one'
-import Five from '../../components/organisms/about/five'
+import Five from '../../components/organisms/home/five'
 import ThreeAbout from '../../components/organisms/about/three'
 import Two from '../../components/organisms/about/two'
 

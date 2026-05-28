@@ -627,7 +627,12 @@ width: 450,
     two: {
       h2: 'WHAT IS बे एके बे ?',
       p: '"Be Eke Be" was born from one simple observation — mathematics is a subject most students fear, not because it is hard, but because it was never made interesting. Agresar Foundation decided to change that by creating an entire campaign around making numbers feel exciting, accessible, and worth celebrating. The campaign launched with branded "Be Eke Be" T-shirts sold across Nagpur. The response was overwhelming — people from all parts of the city bought and wore them with pride. It was Agresar first step in turning mathematics awareness into a street level movement. 38 schools from across Nagpur participated in this one of a kind competition. Students competed in table recitation with enormous energy, taking home custom designed "Be Eke Be" trophies. The event was held at South Central Zone Cultural Centre, Nagpur.',
-      
+      img: {
+        src: '/assets/be-ek-be/two/two.png',
+        alt: 'beEkBeTwo',
+        height: 500,
+        width: 800,
+      },
     },
     three: {
       h2: 'Number of participants',
