@@ -36,12 +36,12 @@ const Index = () => {
 
           {/* Left logo — sits inside left loop */}
           <div className={`${styles['logo-card']} ${styles['logo-left']}`}>
-            <img src=" assets\home\seven\eSthree.png" alt="eStree - Empowering Women" />
+            <Image src=" assets\home\seven\eSthree.png" alt="eStree - Empowering Women" />
           </div>
 
           {/* Right logo — sits inside right loop */}
           <div className={`${styles['logo-card']} ${styles['logo-right']}`}>
-            <img src="assets\home\seven\nFirst.png" alt="Nation First" />
+            <Image src="assets\home\seven\nFirst.png" alt="Nation First" />
           </div>
         </div>
       </section>
