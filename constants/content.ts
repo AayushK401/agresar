@@ -382,36 +382,7 @@ export const content = {
         },
       ],
     },
-    five: {
-      h3: 'Our Team',
-      p: "We know you'll like them as much as we do",
-      cards: [
-        {
-          img: {
-            src: '/assets/about/five/card.png',
-            alt: 'card',
-            height: 400,
-            width: 400,
-          },
-          height: 400,
-          width: 400,
-          name: 'Piyush Kulkarni',
-          designation: 'Founder',
-        },
-        {
-          img: {
-            src: '/assets/about/five/card.png',
-            alt: 'card',
-            height: 400,
-            width: 400,
-          },
-          height: 400,
-          width: 400,
-          name: 'Piyush Kulkarni',
-          designation: 'Founder',
-        },
-      ],
-    },
+     
   },
   events: {
     one: {
