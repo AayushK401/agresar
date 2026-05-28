@@ -22,7 +22,7 @@ const Track = ({ images, reverse = false }: TrackProps) => {
     <div className={`${styles.track} ${reverse ? styles.reverse : ''}`}>
       {tripled.map((src, i) => (
         <div key={i} className={styles.card}>
-          <img src={src} alt="" className={styles.cardImg} />
+          <Image src={src} alt="" className={styles.cardImg} />
           <div className={styles.overlay} />
           <div className={styles.logoBadge}>
             <Image src="/assets/home/six/logo.svg" alt="logo" width={24} height={24} />
