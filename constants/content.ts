@@ -1,7 +1,7 @@
-import { profile } from "console"
-import image from "next/image"
-import { text } from "stream/consumers"
-import style from "styled-jsx/style"
+// import { profile } from "console"
+// import image from "next/image"
+// import { text } from "stream/consumers"
+// import style from "styled-jsx/style"
  
 
 // import foodKit from '../assets/images/foodKit.svg'
